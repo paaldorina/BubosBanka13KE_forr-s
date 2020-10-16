@@ -1,35 +1,34 @@
-body{
+body {
   padding: 15px;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
-
-p{
+p {
   margin: 5px;
   text-align: justify;
 }
 
-#balkep{
+#balkep {
   float: left;
   margin-right: 15px;
 }
 
-#jobbkep{
+#jobbkep {
   float: right;
   width: 400px;
   margin: 10px;
 }
 
-table{
-  box-shadow: 5px 5px 7px #1D1D4E;
+table {
+  box-shadow: 5px 5px 7px #1d1d4e;
 }
 
-td{
-  border: 1px dotted #1D1D4E;
-  padding:  2px 16px 2px;
+td {
+  border: 1px dotted #1d1d4e;
+  padding: 2px 16px 2px;
 }
 
 td:first-child {
@@ -42,19 +41,19 @@ td:nth-child(2) {
   text-align: left;
 }
 
-.fejsor{
+.fejsor {
   text-align: center;
-  background-color:  #1D1D4E;
-  color: #E7E7FF; 
+  background-color: #1d1d4e;
+  color: #e7e7ff;
 }
 
-.forras{
+.forras {
   margin: 15px 75px 0px;
   padding-top: 5px;
-  border-top: 1px solid #1D1D4E;
+  border-top: 1px solid #1d1d4e;
   font-style: italic;
 }
 
-img{
-  box-shadow: 5px 5px 7px #1D1D4E;
+img {
+  box-shadow: 5px 5px 7px #1d1d4e;
 }
